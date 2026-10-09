@@ -11,4 +11,4 @@ Requires macOS 14 or later.
 
 ---
 
-This repository only hosts MenuRun's downloads and its update feed (`appcast.xml`).
+This repository only hosts MenuRun's downloads. The update feed is served from [menurun.app](https://menurun.app/appcast.xml).
